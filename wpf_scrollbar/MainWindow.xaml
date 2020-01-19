@@ -29,5 +29,18 @@
             </Canvas>
         </ContentControl>
 
+        <ListBox x:Name="lb" Height="100">
+            
+            <ListBox.Resources>
+                <Style TargetType="ScrollViewer" BasedOn="{StaticResource  for_scrollviewer}">
+                </Style>
+            </ListBox.Resources>
+
+            <StackPanel Orientation="Vertical">
+               
+            </StackPanel>
+        </ListBox>
+        
+
     </Grid>
 </Window>
