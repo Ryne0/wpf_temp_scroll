@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:wpf_scrollbar"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded_1">
 
     <Window.Resources>
         <ResourceDictionary>
@@ -14,33 +14,12 @@
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Window.Resources>
-    <Grid>
+    <Grid >
+       
 
-        <ContentControl Margin="10">
-            <ContentControl.Template>
-                <ControlTemplate TargetType="{x:Type ContentControl}">
-                    <ScrollViewer Style="{StaticResource for_scrollviewer}">
-                        <ContentPresenter/>
-                    </ScrollViewer>
-                </ControlTemplate>
-            </ContentControl.Template>
-            <Canvas Height="1600" Width="1600" Background="AliceBlue">
 
-            </Canvas>
-        </ContentControl>
+        <Frame x:Name="main_frame" Content="Frame" Height="410" Margin="126,8,32.1,2" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Width="355"/>
 
-        <ListBox x:Name="lb" Height="100">
-            
-            <ListBox.Resources>
-                <Style TargetType="ScrollViewer" BasedOn="{StaticResource  for_scrollviewer}">
-                </Style>
-            </ListBox.Resources>
-
-            <StackPanel Orientation="Vertical">
-               
-            </StackPanel>
-        </ListBox>
-        
 
     </Grid>
 </Window>

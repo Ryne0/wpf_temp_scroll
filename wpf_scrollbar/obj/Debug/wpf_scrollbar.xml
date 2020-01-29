@@ -79,5 +79,15 @@ MainWindow
 InitializeComponent
 </summary>
 </member>
+<member name="T:wpf_scrollbar.page_lsit">
+<summary>
+page_lsit
+</summary>
+</member>
+<member name="M:wpf_scrollbar.page_lsit.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 </members>
 </doc>
