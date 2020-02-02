@@ -70,6 +70,9 @@
     <Compile Include="page_list.xaml.vb">
       <DependentUpon>page_list.xaml</DependentUpon>
     </Compile>
+    <Compile Include="pg_testbtn.xaml.vb">
+      <DependentUpon>pg_testbtn.xaml</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -83,6 +86,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="page_list.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="pg_testbtn.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

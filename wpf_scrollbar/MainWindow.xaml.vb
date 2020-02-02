@@ -3,7 +3,8 @@
 
 
     Private Sub Window_Loaded_1(sender As Object, e As RoutedEventArgs)
-        Dim pg As page_lsit = New page_lsit
+        'Dim pg As page_lsit = New page_lsit
+        Dim pg As pg_testbtn = New pg_testbtn
 
         main_frame.NavigationUIVisibility = NavigationUIVisibility.Hidden
         main_frame.NavigationService.Navigate(pg)

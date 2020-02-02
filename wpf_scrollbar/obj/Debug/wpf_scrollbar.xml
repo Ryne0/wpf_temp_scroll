@@ -54,6 +54,16 @@ wpf_scrollbar
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="T:wpf_scrollbar.pg_testbtn">
+<summary>
+pg_testbtn
+</summary>
+</member>
+<member name="M:wpf_scrollbar.pg_testbtn.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 <member name="T:wpf_scrollbar.Application">
 <summary>
 Application
