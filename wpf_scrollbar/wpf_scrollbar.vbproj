@@ -73,6 +73,9 @@
     <Compile Include="pg_testbtn.xaml.vb">
       <DependentUpon>pg_testbtn.xaml</DependentUpon>
     </Compile>
+    <Compile Include="rec_case.xaml.vb">
+      <DependentUpon>rec_case.xaml</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -90,6 +93,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="pg_testbtn.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="rec_case.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

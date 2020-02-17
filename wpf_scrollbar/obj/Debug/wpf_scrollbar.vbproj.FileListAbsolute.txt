@@ -39,3 +39,5 @@ E:\temp_scroll_view\wpf_scrollbar\obj\Debug\page_list.baml
 E:\temp_scroll_view\wpf_scrollbar\obj\Debug\wpf_scrollbar_Content.g.vb
 E:\temp_scroll_view\wpf_scrollbar\obj\Debug\pg_testbtn.g.vb
 E:\temp_scroll_view\wpf_scrollbar\obj\Debug\pg_testbtn.baml
+E:\temp_scroll_view\wpf_scrollbar\obj\Debug\rec_case.g.vb
+E:\temp_scroll_view\wpf_scrollbar\obj\Debug\rec_case.baml

@@ -64,6 +64,16 @@ pg_testbtn
 InitializeComponent
 </summary>
 </member>
+<member name="T:wpf_scrollbar.rec_case">
+<summary>
+rec_case
+</summary>
+</member>
+<member name="M:wpf_scrollbar.rec_case.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 <member name="T:wpf_scrollbar.Application">
 <summary>
 Application

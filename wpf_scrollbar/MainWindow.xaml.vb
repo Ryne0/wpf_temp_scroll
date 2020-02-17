@@ -13,4 +13,9 @@
         Left = desktopWorkingArea.Right - Width
         Top = desktopWorkingArea.Bottom - Height
     End Sub
+
+    Private Sub Button_Click(sender As Object, e As RoutedEventArgs)
+        Dim x As New rec_case
+        x.ShowDialog()
+    End Sub
 End Class

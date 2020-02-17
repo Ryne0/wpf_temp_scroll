@@ -19,6 +19,7 @@
 
 
         <Frame x:Name="main_frame" Content="Frame" Height="410" Margin="126,8,32.1,2" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Width="355"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="61,243,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
 
 
     </Grid>
