@@ -76,6 +76,9 @@
     <Compile Include="rec_case.xaml.vb">
       <DependentUpon>rec_case.xaml</DependentUpon>
     </Compile>
+    <Compile Include="test_groupbox.xaml.vb">
+      <DependentUpon>test_groupbox.xaml</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -101,6 +104,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="ScrollViewer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="test_groupbox.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
