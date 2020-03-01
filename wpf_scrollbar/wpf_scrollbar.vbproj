@@ -67,6 +67,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="fm_CaseCreate.xaml.vb">
+      <DependentUpon>fm_CaseCreate.xaml</DependentUpon>
+    </Compile>
     <Compile Include="page_list.xaml.vb">
       <DependentUpon>page_list.xaml</DependentUpon>
     </Compile>
@@ -79,6 +82,10 @@
     <Compile Include="test_groupbox.xaml.vb">
       <DependentUpon>test_groupbox.xaml</DependentUpon>
     </Compile>
+    <Page Include="fm_CaseCreate.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

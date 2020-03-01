@@ -54,6 +54,16 @@ wpf_scrollbar
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="T:wpf_scrollbar.fm_CaseCreate">
+<summary>
+fm_CaseCreate
+</summary>
+</member>
+<member name="M:wpf_scrollbar.fm_CaseCreate.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 <member name="T:wpf_scrollbar.pg_testbtn">
 <summary>
 pg_testbtn
@@ -70,6 +80,16 @@ rec_case
 </summary>
 </member>
 <member name="M:wpf_scrollbar.rec_case.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:wpf_scrollbar.test_groupbox">
+<summary>
+test_groupbox
+</summary>
+</member>
+<member name="M:wpf_scrollbar.test_groupbox.InitializeComponent">
 <summary>
 InitializeComponent
 </summary>
