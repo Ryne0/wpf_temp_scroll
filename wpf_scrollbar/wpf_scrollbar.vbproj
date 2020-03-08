@@ -67,8 +67,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="BusySpinner.xaml.vb">
+      <DependentUpon>BusySpinner.xaml</DependentUpon>
+    </Compile>
     <Compile Include="fm_CaseCreate.xaml.vb">
       <DependentUpon>fm_CaseCreate.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="fm_DownloadFile.xaml.vb">
+      <DependentUpon>fm_DownloadFile.xaml</DependentUpon>
     </Compile>
     <Compile Include="page_list.xaml.vb">
       <DependentUpon>page_list.xaml</DependentUpon>
@@ -82,7 +88,15 @@
     <Compile Include="test_groupbox.xaml.vb">
       <DependentUpon>test_groupbox.xaml</DependentUpon>
     </Compile>
+    <Page Include="BusySpinner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="fm_CaseCreate.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fm_DownloadFile.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

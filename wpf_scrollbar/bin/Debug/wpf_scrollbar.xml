@@ -54,12 +54,32 @@ wpf_scrollbar
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="T:wpf_scrollbar.BusySpinner">
+<summary>
+BusySpinner
+</summary>
+</member>
+<member name="M:wpf_scrollbar.BusySpinner.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 <member name="T:wpf_scrollbar.fm_CaseCreate">
 <summary>
 fm_CaseCreate
 </summary>
 </member>
 <member name="M:wpf_scrollbar.fm_CaseCreate.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:wpf_scrollbar.fm_DownloadFile">
+<summary>
+fm_DownloadFile
+</summary>
+</member>
+<member name="M:wpf_scrollbar.fm_DownloadFile.InitializeComponent">
 <summary>
 InitializeComponent
 </summary>
@@ -127,6 +147,36 @@ page_lsit
 <member name="M:wpf_scrollbar.page_lsit.InitializeComponent">
 <summary>
 InitializeComponent
+</summary>
+</member>
+<member name="T:wpf_scrollbar.XamlGeneratedNamespace.GeneratedInternalTypeHelper">
+<summary>
+GeneratedInternalTypeHelper
+</summary>
+</member>
+<member name="M:wpf_scrollbar.XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateInstance(System.Type,System.Globalization.CultureInfo)">
+<summary>
+CreateInstance
+</summary>
+</member>
+<member name="M:wpf_scrollbar.XamlGeneratedNamespace.GeneratedInternalTypeHelper.GetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Globalization.CultureInfo)">
+<summary>
+GetPropertyValue
+</summary>
+</member>
+<member name="M:wpf_scrollbar.XamlGeneratedNamespace.GeneratedInternalTypeHelper.SetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Object,System.Globalization.CultureInfo)">
+<summary>
+SetPropertyValue
+</summary>
+</member>
+<member name="M:wpf_scrollbar.XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateDelegate(System.Type,System.Object,System.String)">
+<summary>
+CreateDelegate
+</summary>
+</member>
+<member name="M:wpf_scrollbar.XamlGeneratedNamespace.GeneratedInternalTypeHelper.AddEventHandler(System.Reflection.EventInfo,System.Object,System.Delegate)">
+<summary>
+AddEventHandler
 </summary>
 </member>
 </members>

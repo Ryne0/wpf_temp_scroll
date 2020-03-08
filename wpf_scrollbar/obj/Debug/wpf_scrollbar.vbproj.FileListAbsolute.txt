@@ -46,3 +46,8 @@ E:\temp_scroll_view\wpf_scrollbar\obj\Debug\test_groupbox.baml
 E:\temp_scroll_view\wpf_scrollbar\obj\Debug\Application.baml
 E:\temp_scroll_view\wpf_scrollbar\obj\Debug\fm_CaseCreate.g.vb
 E:\temp_scroll_view\wpf_scrollbar\obj\Debug\fm_CaseCreate.baml
+E:\temp_scroll_view\wpf_scrollbar\obj\Debug\fm_DownloadFile.g.vb
+E:\temp_scroll_view\wpf_scrollbar\obj\Debug\fm_DownloadFile.baml
+E:\temp_scroll_view\wpf_scrollbar\obj\Debug\BusySpinner.g.vb
+E:\temp_scroll_view\wpf_scrollbar\obj\Debug\GeneratedInternalTypeHelper.g.vb
+E:\temp_scroll_view\wpf_scrollbar\obj\Debug\BusySpinner.baml
