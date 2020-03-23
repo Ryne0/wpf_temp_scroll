@@ -1,10 +1,13 @@
 ﻿
 FE:\temp_scroll_view\wpf_scrollbar\Application.xaml;;
+FE:\temp_scroll_view\wpf_scrollbar\BusySpinner.xaml;;
 FE:\temp_scroll_view\wpf_scrollbar\fm_CaseCreate.xaml;;
 FE:\temp_scroll_view\wpf_scrollbar\fm_DownloadFile.xaml;;
 FE:\temp_scroll_view\wpf_scrollbar\MainWindow.xaml;;
+FE:\temp_scroll_view\wpf_scrollbar\page_display.xaml;;
+FE:\temp_scroll_view\wpf_scrollbar\page_empty.xaml;;
+FE:\temp_scroll_view\wpf_scrollbar\page_spinner.xaml;;
 FE:\temp_scroll_view\wpf_scrollbar\pg_testbtn.xaml;;
 FE:\temp_scroll_view\wpf_scrollbar\rec_case.xaml;;
 FE:\temp_scroll_view\wpf_scrollbar\test_groupbox.xaml;;
-FE:\temp_scroll_view\wpf_scrollbar\BusySpinner.xaml;;
 

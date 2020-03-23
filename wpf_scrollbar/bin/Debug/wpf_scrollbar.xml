@@ -84,6 +84,36 @@ fm_DownloadFile
 InitializeComponent
 </summary>
 </member>
+<member name="T:wpf_scrollbar.page_display">
+<summary>
+page_display
+</summary>
+</member>
+<member name="M:wpf_scrollbar.page_display.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:wpf_scrollbar.page_empty">
+<summary>
+page_empty
+</summary>
+</member>
+<member name="M:wpf_scrollbar.page_empty.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:wpf_scrollbar.Page_spinner">
+<summary>
+Page_spinner
+</summary>
+</member>
+<member name="M:wpf_scrollbar.Page_spinner.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 <member name="T:wpf_scrollbar.pg_testbtn">
 <summary>
 pg_testbtn

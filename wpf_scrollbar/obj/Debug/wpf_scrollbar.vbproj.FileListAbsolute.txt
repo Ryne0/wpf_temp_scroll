@@ -51,3 +51,9 @@ E:\temp_scroll_view\wpf_scrollbar\obj\Debug\fm_DownloadFile.baml
 E:\temp_scroll_view\wpf_scrollbar\obj\Debug\BusySpinner.g.vb
 E:\temp_scroll_view\wpf_scrollbar\obj\Debug\GeneratedInternalTypeHelper.g.vb
 E:\temp_scroll_view\wpf_scrollbar\obj\Debug\BusySpinner.baml
+E:\temp_scroll_view\wpf_scrollbar\obj\Debug\page_display.g.vb
+E:\temp_scroll_view\wpf_scrollbar\obj\Debug\page_empty.g.vb
+E:\temp_scroll_view\wpf_scrollbar\obj\Debug\page_spinner.g.vb
+E:\temp_scroll_view\wpf_scrollbar\obj\Debug\page_display.baml
+E:\temp_scroll_view\wpf_scrollbar\obj\Debug\page_empty.baml
+E:\temp_scroll_view\wpf_scrollbar\obj\Debug\page_spinner.baml

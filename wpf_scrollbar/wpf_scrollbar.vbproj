@@ -76,8 +76,17 @@
     <Compile Include="fm_DownloadFile.xaml.vb">
       <DependentUpon>fm_DownloadFile.xaml</DependentUpon>
     </Compile>
+    <Compile Include="page_display.xaml.vb">
+      <DependentUpon>page_display.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page_empty.xaml.vb">
+      <DependentUpon>page_empty.xaml</DependentUpon>
+    </Compile>
     <Compile Include="page_list.xaml.vb">
       <DependentUpon>page_list.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page_spinner.xaml.vb">
+      <DependentUpon>page_spinner.xaml</DependentUpon>
     </Compile>
     <Compile Include="pg_testbtn.xaml.vb">
       <DependentUpon>pg_testbtn.xaml</DependentUpon>
@@ -112,7 +121,19 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="page_display.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page_empty.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="page_list.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page_spinner.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

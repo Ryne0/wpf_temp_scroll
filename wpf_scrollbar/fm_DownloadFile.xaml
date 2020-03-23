@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:wpf_scrollbar"
         mc:Ignorable="d"
+       
         Title="fm_DownloadFile" Height="380" Width="800" WindowStyle="None" ResizeMode="NoResize" ShowInTaskbar="False" AllowsTransparency="True"
-        Background="Transparent" Loaded="Form_Load" >
+        Background="Transparent" Loaded="Form_Load" 
+         >
     <Window.Resources >
         <Style x:Key="SimpleListBoxItem" TargetType="ListBoxItem">
 
@@ -60,7 +62,7 @@
                 <RowDefinition Height=" 8* "/>
                 <RowDefinition Height=" 1* "/>
             </Grid.RowDefinitions>
-            <local:BusySpinner />
+            
             <Border  Grid.Row="0 " BorderThickness="0,0,0,1" BorderBrush="Blue" />
             <Label Grid.Row="0 " Content="檔案下載" FontSize="20" />
           
